@@ -1,0 +1,9 @@
+{
+  "name": "helloworld",
+  "type": "package",
+  "blockId": "c70Q9ZiLl5VMgBH4lR4dd",
+  "source": {
+    "https": "https://github.com/devthalal/helloworld",
+    "ssh": "git@github.com:devthalal/helloworld.git"
+  }
+}
